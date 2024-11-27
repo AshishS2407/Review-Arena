@@ -2,7 +2,6 @@
 
 The **Review Arena App** is a platform where users can submit, view, and manage movie reviews. Admins can handle users, reviews, and messages through the **Admin Dashboard**. Built with **React**, **Node.js**, the app provides a seamless experience for both admins and users.
 
-![Review Arena](https://img.shields.io/badge/Review%20Arena%20App-React%20%7C%20Node.js)
 
 ---
 
@@ -60,6 +59,16 @@ npm run dev
 ```bash
 npx json-server --watch db.json --port 5000
 ```
+---
 
+## 🤝 Contributing
 
+We welcome contribution! 🙌 Feel free to fork this project, open issues, or submit pull requests. Let’s build something amazing together! 🚀
+
+---
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
