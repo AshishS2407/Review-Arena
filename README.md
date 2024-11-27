@@ -1,7 +1,8 @@
 # 🎬 **Review Arena App** 🎬
 
-The **Review Arena App** is a platform where users can submit, view, and manage movie reviews. Admins can handle users, reviews, and messages through the **Admin Dashboard**. Built with **React**, **Node.js**, the app provides a seamless experience for both admins and users.
+**📄 PROJECT OVERVIEW**
 
+The **Review Arena App** is a platform where users can submit, view, and manage movie reviews. Admins can handle users, reviews, and messages through the **Admin Dashboard**. Built with **React**, **Node.js**, the app provides a seamless experience for both admins and users.
 
 ---
 
