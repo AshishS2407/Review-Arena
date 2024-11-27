@@ -2,7 +2,7 @@
 
 The **Review Arena App** is a platform where users can submit, view, and manage movie reviews. Admins can handle users, reviews, and messages through the **Admin Dashboard**. Built with **React**, **Node.js**, and **MongoDB**, the app provides a seamless experience for both admins and users.
 
-![Review Arena](https://img.shields.io/badge/Review%20Arena%20App-React%20%7C%20Node.js%20%7C%20MongoDB-blue)
+![Review Arena](https://img.shields.io/badge/Review%20Arena%20App-React%20%7C%20Node.js%20%7C%20)
 
 ---
 
